@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://localhost:8000/en/</loc>
+         <loc>https://jackieyyang.github.io/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/about/</loc>
+         <loc>https://jackieyyang.github.io/about/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/</loc>
+         <loc>https://jackieyyang.github.io/blog/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/2024/04/13/hello-world/</loc>
+         <loc>https://jackieyyang.github.io/blog/2024/04/13/hello-world/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/2024/04/13/hello/</loc>
+         <loc>https://jackieyyang.github.io/blog/2024/04/13/hello/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/archive/2024/</loc>
+         <loc>https://jackieyyang.github.io/blog/archive/2024/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/category/hello/</loc>
+         <loc>https://jackieyyang.github.io/blog/category/hello/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/en/blog/category/world/</loc>
+         <loc>https://jackieyyang.github.io/blog/category/world/</loc>
          <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
