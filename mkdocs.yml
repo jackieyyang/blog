@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Docs
+site_url: http://localhost:8000/en/
+site_author: Jackie Yang
+
+# navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog:
+    - blog/index.md
+
+# Theme
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  logo: assets/llc-wornout-white.png
+  icon:
+    logo: logo
+  favicon: assets/llc-wornout-sq-dark.svg
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-2
+        name: Switch to system preference
+
+
+# Copyright
+copyright: Copyright &copy; 2024 Jackie Yang
+
+plugins:
+  - blog:
+      blog_dir: blog
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/squidfunk
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/mkdocs-material/
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
