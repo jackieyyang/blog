@@ -1,1 +1,1 @@
-Hi , Here is Jackie Yang's Blog.
+<h1 align="center">Hi👋, I'm Jackie Yang. Here is my Blog!</h1>
