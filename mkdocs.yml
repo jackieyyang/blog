@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: docs
-site_url: https://jackieyyang.github.io
+site_name: blog
+site_url: https://jackieyyang.github.io/blog
 site_author: Jackie Yang
 
 # navigation
